@@ -11,3 +11,7 @@ headless = true\n\
 enableCORS = false\n\
 port = $PORT\n\
 " > ~/.streamlit\config.toml
+
+
+
+add 変更をインデックスに登録する
